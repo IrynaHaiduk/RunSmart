@@ -1,13 +1,8 @@
-﻿Проект «RunSmart» (десктопная версия). Интернет-магазин пульсометров для фитнеса, бега, триатлона. 
+﻿# Project «RunSmart» 
+ 
+ Online store of heart rate monitors for fitness, running, triathlon.
 
-Ссылка на проект: https://haiduk2019.github.io/RunSmart/dist/index.html
-
-Скопировать проект:
-
-1. Клонируем репозиторий на свой компьютер:
- git clone SSH-адрес_проекта
-2. Устанавливаем зависимости: 
- npm install
-3. Запускаем проект: 
- gulp
+- [DEMO LINK](https://irynahaiduk.github.io/RunSmart/dist/index.html)
+- Tech stack: HTML5, SCSS, JS, BEM methodology, jQuery
+- Desktop version
 
